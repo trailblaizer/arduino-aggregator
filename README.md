@@ -1,2 +1,2 @@
-# midi-aggregator
-This module converts input data to MIDI messages.
+# arduino-aggregator
+This module aggregates messages from different middlewares and publishes them on a single channel.
